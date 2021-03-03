@@ -1,2 +1,2 @@
 # rsschool-cv
-https://bigsemus.github.io/rsschool-cv/cv.html
+https://bigsemus.github.io/rsschool-cv/index.html
